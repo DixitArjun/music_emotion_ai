@@ -1,0 +1,16 @@
+torch
+transformers
+datasets
+pretty_midi
+music21
+mido
+librosa
+soundfile
+matplotlib
+seaborn
+numpy
+pandas
+scikit-learn
+tqdm
+jupyter
+ipykernel
